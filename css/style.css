@@ -536,6 +536,44 @@ label.logo {
     padding: 0.25em 1em 0.2em 1em;
 }
 
+/*skillset section(programming)
+==================================================*/
+
+#features {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+#features .feature-block:hover {
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+    transition: all 0.5s ease-in-out 0s;
+}
+#features .feature-block {
+    background: #fff none repeat scroll 0 0;
+    padding: 30px 20px;
+    margin-bottom: 30px;
+    transition: all 0.5s ease-in-out 0s;
+}
+.padd-section {
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+.img-fluid {
+    height: 60px;
+    margin-bottom: 30px;
+    width: 60px;
+}
+
+.row1 {
+    /* /* display: -ms-flexbox; */
+    /* display: flex; */
+    /* -ms-flex-wrap: wrap; */
+    /* flex-wrap: wrap; */ 
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
 /* projects section
 ==================================================*/
 #projects {
