@@ -1,6 +1,6 @@
 <?php
 
-    $to = "sakshammadan@protonmail.com";
+    $to = "contact_saksham.unserialize@simplelogin.co";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $headers = "From: $from";
